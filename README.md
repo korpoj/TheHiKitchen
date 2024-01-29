@@ -1,7 +1,9 @@
 
 <html>
 <head>
-<title></title>
+<title>
+	Menu
+</title>
 	<link rel="stylesheet" href="style.css">
 </head>
 <body>
