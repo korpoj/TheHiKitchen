@@ -1,3 +1,6 @@
+h1 {
+    display: none; /* or other styles that hide the title */
+}
 .center {
   display: block;
   margin-left: auto;
